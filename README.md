@@ -1,41 +1,153 @@
 <div align="center">
 
-![SEBAS — Developer / Open Source](assets/sebas-banner.svg)
+<a href="https://github.com/SebasLoadJs"><img src="./assets/sebas-banner.svg" width="100%" alt="SEBAS — software, systems and sound" /></a>
 
-# 𝚂𝚎𝚋𝚊𝚜
+<br/><br/>
+
+### 𝚂𝚎𝚋𝚊𝚜 · Independent Software Developer
 
 **SOFTWARE / SYSTEMS / SOUND**
 
-*Building, exploring and refining software — one project at a time.*
+<sub>Writing code. Exploring systems. Building and refining what matters.</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SebasLoadJs-0B1425?logo=github&logoColor=white)](https://github.com/SebasLoadJs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A74C8?logo=vercel&logoColor=white)](https://SebasLoadJs.github.io/)
+<br/><br/>
+
+<a href="https://github.com/SebasLoadJs?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0C2034?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://SebasLoadJs.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-168AD7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/SebasLoadJs/NyxLink"><img src="https://img.shields.io/badge/CURRENT_FOCUS-NYXLINK-263F60?style=for-the-badge&logo=typescript&logoColor=white" alt="NyxLink" /></a>
 
 </div>
 
----
+<br/>
 
-### 01 / About
+<img src="./assets/section-about.svg" width="100%" alt="01 — Profile" />
 
-I'm **Sebas**, a developer interested in software architecture, automation, audio infrastructure and building tools that people can actually use.
+<table>
+<tr>
+<td width="57%" valign="top">
 
-I value modular design, maintainable code and thoughtful developer experience.
+### Hey, I'm Sebas.
 
-### 02 / Selected projects
+A developer from **Paraguay** exploring **software architecture, APIs, automation, audio systems and developer tools**.
 
-| Project | Focus | Repository |
-|:--|:--|:--|
-| **NyxLink** | Audio client for Discord bots, Lavalink and NodeLink | [Explore →](https://github.com/SebasLoadJs/NyxLink) |
-| **OBEY YOUR MASTER** | Multipurpose Discord bot and modular systems | [Explore →](https://github.com/SebasLoadJs/OBEY-YOUR-MASTER) |
-| **OguriCap Bot** | WhatsApp bot, automation and plugins | [Explore →](https://github.com/SebasLoadJs/OguriCap-Bot) |
-| **KONMI BOT** | Bot development | [Explore →](https://github.com/SebasLoadJs/KONMI-BOT-) |
+I like to understand what happens behind the interface, break complicated problems into smaller pieces, and turn experiments into projects I can improve over time.
 
-### 03 / Areas of interest
+Most of my public work involves **Discord bots**, **audio clients** and **messaging automation**.
 
-`TypeScript` · `JavaScript` · `Node.js` · `Discord.js` · `APIs` · `System Architecture` · `Audio Systems`
+</td>
+<td width="43%" valign="top">
 
-### 04 / Connect
+**developer.json**
 
-**[GitHub](https://github.com/SebasLoadJs)** · **[Portfolio](https://SebasLoadJs.github.io/)**
+~~~json
+{
+  "name": "Sebas",
+  "location": "Paraguay",
+  "interests": [
+    "software architecture",
+    "audio infrastructure",
+    "automation",
+    "developer experience"
+  ],
+  "approach": "build → test → refine"
+}
+~~~
 
-<sub>This repository contains the source for my personal portfolio. Projects are continuously evolving.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/section-work.svg" width="100%" alt="02 — Selected projects" />
+
+<div align="center"><sub>SELECTED WORK / EXPLORE MY REPOSITORIES</sub></div>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/SebasLoadJs/NyxLink"><img src="./assets/nyxlink-card.svg" width="100%" alt="NyxLink audio client" /></a><br/>
+<sub>Audio-client infrastructure for Discord bots, working with Lavalink and NodeLink.</sub><br/><br/>
+<a href="https://github.com/SebasLoadJs/NyxLink"><b>Explore the code ↗</b></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/SebasLoadJs/OBEY-YOUR-MASTER"><img src="./assets/obey-card.svg" width="100%" alt="OBEY YOUR MASTER Discord bot" /></a><br/>
+<sub>Multipurpose Discord bot project covering music, moderation and modular features.</sub><br/><br/>
+<a href="https://github.com/SebasLoadJs/OBEY-YOUR-MASTER"><b>Explore the code ↗</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><br/>
+<a href="https://github.com/SebasLoadJs/OguriCap-Bot"><img src="./assets/oguri-card.svg" width="100%" alt="OguriCap Bot" /></a><br/>
+<sub>WhatsApp automation project exploring plugins, integrations and management tools.</sub><br/><br/>
+<a href="https://github.com/SebasLoadJs/OguriCap-Bot"><b>Explore the code ↗</b></a>
+</td>
+<td width="50%" valign="top"><br/>
+<a href="https://github.com/SebasLoadJs/KONMI-BOT-"><img src="./assets/konmi-card.svg" width="100%" alt="KONMI Bot" /></a><br/>
+<sub>An experimental bot-development project in my collection of technical work.</sub><br/><br/>
+<a href="https://github.com/SebasLoadJs/KONMI-BOT-"><b>Explore the code ↗</b></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/section-stack.svg" width="100%" alt="03 — Technical toolkit" />
+
+<div align="center">
+
+### Technology & interests
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,git,github,docker,mongodb,postgres&theme=dark&perline=8" alt="Technology icons" />
+
+<br/><br/>
+
+JavaScript · TypeScript · Node.js · discord.js · REST APIs · WebSockets
+
+Lavalink · NodeLink · Software Architecture · Automation
+
+</div>
+
+<br/>
+
+<details><summary><b>↳ Engineering approach</b></summary>
+<br/>
+
+- **Structure:** Define responsibilities, interfaces and boundaries between modules.
+- **Maintenance:** Prefer readable code and predictable behavior over unnecessary complexity.
+- **Reliability:** Test core flows, inspect failures, document the important decisions.
+- **Experience:** Think about both the end user and the developer maintaining the project.
+- **Iteration:** Research, build, evaluate and refine.
+
+</details>
+
+<details><summary><b>↳ Things I'm exploring</b></summary>
+<br/>
+
+- **NyxLink:** Lavalink, NodeLink, audio-client interfaces and error handling.
+- **OBEY:** Modular Discord features, music systems and user experience.
+- **Tooling:** Developer workflows, testing, documentation and project structure.
+
+</details>
+
+<br/>
+
+<img src="./assets/section-connect.svg" width="100%" alt="04 — Connect" />
+
+<div align="center">
+
+### Let's build something meaningful.
+
+Software, systems and open-source experiments.
+
+<br/>
+
+<a href="https://github.com/SebasLoadJs"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_CODE-0C2034?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://SebasLoadJs.github.io/"><img src="https://img.shields.io/badge/WEBSITE-VISIT_PORTFOLIO-167FC4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<sub>SEBAS © 2026 · Build / Explore / Refine</sub>
+
+</div>
