@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://SebasLoadJs.github.io/"><img src="https://img.shields.io/badge/01-EXPLORE_PORTFOLIO-2876ad?style=for-the-badge&labelColor=101923" alt="Explore portfolio"/></a>
+<a href="https://sebasloadjs.github.io/SebasLoadJs/"><img src="https://img.shields.io/badge/01-EXPLORE_PORTFOLIO-2876ad?style=for-the-badge&labelColor=101923" alt="Explore portfolio"/></a>
 <a href="https://github.com/SebasLoadJs?tab=repositories"><img src="https://img.shields.io/badge/02-SOURCE_CODE-314a63?style=for-the-badge&labelColor=101923" alt="Repositories"/></a>
 <a href="https://github.com/SebasLoadJs/NyxLink"><img src="https://img.shields.io/badge/03-NYXLINK-465e7e?style=for-the-badge&labelColor=101923" alt="NyxLink"/></a>
 
@@ -177,7 +177,7 @@ I'm interested in software systems, developer tooling and open-source exploratio
 <br/>
 
 <a href="https://github.com/SebasLoadJs"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_REPOSITORIES-101923?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/></a>
-<a href="https://SebasLoadJs.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-126dab?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"/></a>
+<a href="https://sebasloadjs.github.io/SebasLoadJs/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-126dab?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"/></a>
 
 <br/><br/>
 
