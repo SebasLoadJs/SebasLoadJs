@@ -22,47 +22,17 @@
 
 <img width="100%" src="./assets/section-about.svg" alt="01 / Profile"/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## Hey, I'm Sebas.
-
-I develop software and explore the engineering behind **Discord applications, audio infrastructure, APIs and automation**.
-
-My current interests include modular architecture, maintainable code, developer experience, and understanding how individual components behave together in a larger system.
-
-I'm based in **Paraguay**. Most of my work is published through GitHub repositories, with projects that are continually evolving.
-
-**I prefer showing actual repositories rather than claiming unverified production metrics.**
-
-</td>
-<td width="45%" valign="top">
-
-### `developer.config.ts`
-
-```ts
-export const developer = {
+<table><tr><td width="55%" valign="top"><h2>Hey, I'm Sebas.</h2><p>I develop software and explore the engineering behind <strong>Discord applications, audio infrastructure, APIs and automation</strong>.</p><p>My current interests include modular architecture, maintainable code, developer experience, and understanding how individual components work together.</p><p>I'm based in <strong>Paraguay</strong>. Projects are continuously evolving, and I prefer showing real source code over unverified metrics.</p></td><td width="45%" valign="top"><h3>developer.config.ts</h3><pre lang="typescript">export const developer = {
   name: "Sebas",
   location: "Paraguay",
   interests: [
-    "systems",
+    "architecture",
     "audio infrastructure",
-    "APIs",
     "automation",
+    "developer experience"
   ],
-  process: [
-    "research",
-    "build",
-    "test",
-    "refine",
-  ],
-} as const;
-```
-
-</td>
-</tr>
-</table>
+  approach: "build → test → refine"
+} as const;</pre></td></tr></table>
 
 <br/>
 
@@ -78,68 +48,7 @@ export const developer = {
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/SebasLoadJs/NyxLink"><img src="./assets/nyxlink-card.svg" width="100%" alt="NyxLink" /></a>
-
-**01 — NyxLink**
-
-An audio-client project for Discord bots, exploring **Lavalink**, **NodeLink**, playback management and node communication.
-
-<sub>TypeScript · Audio · Library development</sub>
-
-[Explore source →](https://github.com/SebasLoadJs/NyxLink)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/SebasLoadJs/OBEY-YOUR-MASTER"><img src="./assets/obey-card.svg" width="100%" alt="OBEY YOUR MASTER" /></a>
-
-**02 — OBEY YOUR MASTER**
-
-A multipurpose Discord bot project with a wide-ranging codebase spanning music, commands, event handling, dashboard and localization.
-
-<sub>Node.js · Discord · Modular systems</sub>
-
-[Explore source →](https://github.com/SebasLoadJs/OBEY-YOUR-MASTER)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-<a href="https://github.com/SebasLoadJs/OguriCap-Bot"><img src="./assets/oguri-card.svg" width="100%" alt="OguriCap Bot" /></a>
-
-**03 — OguriCap Bot**
-
-A WhatsApp bot and automation project including plugin infrastructure, services, database-related files and frontend code.
-
-<sub>Automation · Plugins · Web frontend</sub>
-
-[Explore source →](https://github.com/SebasLoadJs/OguriCap-Bot)
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-<a href="https://github.com/SebasLoadJs/KONMI-BOT-"><img src="./assets/konmi-card.svg" width="100%" alt="KONMI BOT" /></a>
-
-**04 — KONMI BOT**
-
-A separate bot-development repository within my technical experiments.
-
-<sub>Bots · Experiments</sub>
-
-[Explore source →](https://github.com/SebasLoadJs/KONMI-BOT-)
-
-</td>
-</tr>
-</table>
+<table><tr><td width="50%" valign="top"><a href="https://github.com/SebasLoadJs/NyxLink"><img src="./assets/nyxlink-card.svg" width="100%" alt="NyxLink"/></a><p><strong>NyxLink</strong></p><p>Audio-client infrastructure for Discord bots, exploring Lavalink and NodeLink.</p><p><sub>TypeScript · Audio · Library development</sub></p><p><a href="https://github.com/SebasLoadJs/NyxLink"><strong>Explore source ↗</strong></a></p></td><td width="50%" valign="top"><a href="https://github.com/SebasLoadJs/OBEY-YOUR-MASTER"><img src="./assets/obey-card.svg" width="100%" alt="OBEY YOUR MASTER"/></a><p><strong>OBEY YOUR MASTER</strong></p><p>Multipurpose Discord bot with music, commands, dashboard, event handling and localization.</p><p><sub>Node.js · Discord · Modular systems</sub></p><p><a href="https://github.com/SebasLoadJs/OBEY-YOUR-MASTER"><strong>Explore source ↗</strong></a></p></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/SebasLoadJs/OguriCap-Bot"><img src="./assets/oguri-card.svg" width="100%" alt="OguriCap Bot"/></a><p><strong>OguriCap Bot</strong></p><p>WhatsApp automation project exploring plugins, integrations and frontend management.</p><p><sub>Automation · Plugins · Frontend</sub></p><p><a href="https://github.com/SebasLoadJs/OguriCap-Bot"><strong>Explore source ↗</strong></a></p></td><td width="50%" valign="top"><a href="https://github.com/SebasLoadJs/KONMI-BOT-"><img src="./assets/konmi-card.svg" width="100%" alt="KONMI BOT"/></a><p><strong>KONMI BOT</strong></p><p>Bot-development experiments and technical tooling.</p><p><sub>Bots · Experiments</sub></p><p><a href="https://github.com/SebasLoadJs/KONMI-BOT-"><strong>Explore source ↗</strong></a></p></td></tr></table>
 
 <br/>
 
