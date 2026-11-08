@@ -4,12 +4,12 @@
 
 # 𝚂𝚎𝚋𝚊𝚜
 
-**Software development · Systems · Open source**
+**SOFTWARE / SYSTEMS / SOUND**
 
 *Building, exploring and refining software — one project at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-SebasLoadJs-0B1425?logo=github&logoColor=white)](https://github.com/SebasLoadJs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A74C8?logo=vercel&logoColor=white)](https://SebasLoadJs.github.io/melodiabl/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A74C8?logo=vercel&logoColor=white)](https://SebasLoadJs.github.io/)
 
 </div>
 
@@ -36,6 +36,6 @@ I value modular design, maintainable code and thoughtful developer experience.
 
 ### 04 / Connect
 
-**[GitHub](https://github.com/SebasLoadJs)** · **[Portfolio](https://SebasLoadJs.github.io/melodiabl/)**
+**[GitHub](https://github.com/SebasLoadJs)** · **[Portfolio](https://SebasLoadJs.github.io/)**
 
 <sub>This repository contains the source for my personal portfolio. Projects are continuously evolving.</sub>
