@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sebasloadjs.github.io/SebasLoadJs/">
-  <img src="./assets/profile-cover.svg" width="100%" alt="SEBAS / Software — Systems — Sound. Azul eléctrico con el avatar de Sebas." />
+  <img src="./assets/profile-cover.jpg" width="100%" alt="SEBAS / Software — Systems — Sound. Azul eléctrico con el avatar de Sebas." />
 </a>
 
 <br />
